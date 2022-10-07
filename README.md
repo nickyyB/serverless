@@ -1,2 +1,2 @@
 # serverless
-Key words: Typescript, Firebase, serverless, cloud, firestore
+Key words: Typescript, Firebase, serverless, cloud, firestore, crud
